@@ -1,2 +1,2 @@
 # twotter
-Twitter a like plateform
+Twitter alike plateform
